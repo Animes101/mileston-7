@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "cover": "https://placehold.co/150x200?text=Book+1",
+    "title": "Think Like a Programmer",
+    "minute": 45,
+    "bookName": "Problem Solving",
+    "category": "Knowledge"
+  },
+  {
+    "id": 2,
+    "cover": "https://placehold.co/150x200?text=Book+2",
+    "title": "Atomic Habits",
+    "minute": 60,
+    "bookName": "Self Improvement",
+    "category": "Productivity"
+  },
+  {
+    "id": 3,
+    "cover": "https://placehold.co/150x200?text=Book+3",
+    "title": "Deep Work",
+    "minute": 55,
+    "bookName": "Focus & Success",
+    "category": "Concentration"
+  },
+  {
+    "id": 4,
+    "cover": "https://placehold.co/150x200?text=Book+4",
+    "title": "Clean Code",
+    "minute": 70,
+    "bookName": "Software Engineering",
+    "category": "Programming"
+  },
+  {
+    "id": 5,
+    "cover": "https://placehold.co/150x200?text=Book+5",
+    "title": "Rich Dad Poor Dad",
+    "minute": 40,
+    "bookName": "Financial Literacy",
+    "category": "Money"
+  },
+  {
+    "id": 6,
+    "cover": "https://placehold.co/150x200?text=Book+6",
+    "title": "The Psychology of Money",
+    "minute": 50,
+    "bookName": "Money Mindset",
+    "category": "Finance"
+  },
+  {
+    "id": 7,
+    "cover": "https://placehold.co/150x200?text=Book+7",
+    "title": "Start With Why",
+    "minute": 35,
+    "bookName": "Purpose & Leadership",
+    "category": "Motivation"
+  },
+  {
+    "id": 8,
+    "cover": "https://placehold.co/150x200?text=Book+8",
+    "title": "You Don’t Know JS",
+    "minute": 80,
+    "bookName": "JavaScript Mastery",
+    "category": "Programming"
+  },
+  {
+    "id": 9,
+    "cover": "https://placehold.co/150x200?text=Book+9",
+    "title": "Zero to One",
+    "minute": 48,
+    "bookName": "Startup Guide",
+    "category": "Entrepreneurship"
+  },
+  {
+    "id": 10,
+    "cover": "https://placehold.co/150x200?text=Book+10",
+    "title": "Mindset: The New Psychology of Success",
+    "minute": 65,
+    "bookName": "Growth Thinking",
+    "category": "Psychology"
+  }
+]

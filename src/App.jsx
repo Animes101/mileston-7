@@ -3,6 +3,7 @@ import './App.css'
 import Post from './components/Post';
 import Countries from './components/Countries';
 import Bottols from './components/Bottols';
+import Knowlage from './Knowlage';
 
 function App() {
   const [count, setCount]=useState(0);
@@ -39,7 +40,8 @@ function App() {
       <button onClick={()=>setIsShowAll(!isShowAll)}>{isShowAll ? 'Less': 'Show All'}</button>
     </div> */}
     {/* <Countries /> */}
-    <Bottols />
+    {/* <Bottols /> */}
+    <Knowlage />
     </div>
   )
 }
