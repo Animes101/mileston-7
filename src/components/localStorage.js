@@ -22,4 +22,13 @@ const addPurches=(item)=>{
     savePurches(purchess)
 }
 
-export {addPurches}
+const removeFormLocalStorage=(name)=>{
+
+    const getPurche=getPurches();
+     const dilit= getPurche.filter((item)=> item !== name);
+
+     savePurches(dilit)
+
+}
+
+export {addPurches,getPurches,removeFormLocalStorage}

@@ -4,6 +4,7 @@ const Bottol = ({bottol,purchesHandle}) => {
 
     const {img, name, price, ratings, ratingsCount,seller,shipping,stock}=bottol;
 
+
   return (
     <div style={{background:'gray', padding:'10px'}}>
         <img style={{width:'300px' , display:'block', margin:'auto'}} src={img} alt={name} />
